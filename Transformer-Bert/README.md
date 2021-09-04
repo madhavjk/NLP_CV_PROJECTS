@@ -8,11 +8,11 @@ Transformers for Natural Language Processing investigates in vast detail the dee
 
 The repo takes you through Natural language processing with Python and examines various eminent models and datasets in the transformer technology created by pioneers such as Google, Facebook, Microsoft, OpenAI, Hugging Face, and other contributors.
 
-The repo trains you in three stages. The first stage introduces you to transformer architectures, starting with the original Transformer, before moving on to RoBERTa, BERT, and DistilBERT models. You  training methods for smaller Transformers that can outperform GPT-3 in some cases. In the second stage, you will apply Transformers for Natural Language Understanding (NLU) and Generation. Finally, the third stage will help you grasp advanced language understanding techniques such as optimizing social network datasets and fake news identification.
+Firstly, I worked with transformer architectures, starting with the original Transformer, before moving on to RoBERTa, BERT, and DistilBERT models. And, I learnt to train methods for smaller Transformers that can outperform GPT-3 in some cases. Secondly, I applied Transformers for Natural Language Understanding (NLU) and Generation. Finally, we  advanced language understanding techniques such as optimizing social network datasets and fake news identification.
 
-By the end of this NLP book, you will understand transformers from a cognitive science perspective and be proficient in applying pre-trained transformer models by tech giants to various datasets.
+By the end, we will understand transformers from a cognitive science perspective and be proficient in applying pre-trained transformer models by tech giants to various datasets.
 
-## 
+## Things I learnt during:
 * Use the latest pretrained transformer models
 * Grasp the workings of the original Transformer, GPT-2, BERT, T5, and other transformer models
 * Create language understanding Python programs using concepts that outperform classical deep learning models
