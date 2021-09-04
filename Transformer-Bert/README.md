@@ -18,7 +18,7 @@ Firstly, I worked with transformer architectures, starting with the original Tra
 
 By the end, we will understand transformers from a cognitive science perspective and be proficient in applying pre-trained transformer models by tech giants to various datasets.
 
-## Things I learnt during:
+## Things I learnt during this:
 * Use the latest pretrained transformer models
 * Grasp the workings of the original Transformer, GPT-2, BERT, T5, and other transformer models
 * Create language understanding Python programs using concepts that outperform classical deep learning models
