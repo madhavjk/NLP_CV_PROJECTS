@@ -2,7 +2,7 @@
 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-nltk-orange.svg)
 
-![NLP]![image](https://user-images.githubusercontent.com/42112240/132096246-13fa0cfd-b141-4a07-8628-50388703d2b2.png)
+![image](https://user-images.githubusercontent.com/42112240/132096246-13fa0cfd-b141-4a07-8628-50388703d2b2.png)
 
 
 This is the code repository for Transformers for Natural Language Processing Projects. 
