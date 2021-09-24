@@ -1,4 +1,4 @@
-# NLP_CV_PROJECTS
+# NLP_CV_PROJEC
 
   NYC Final: https://drive.google.com/drive/folders/1okdoeVcz6peAgJRrBC1Hnx1o7zD3OhYE
   
